@@ -1,23 +1,8 @@
-### Hi there 👋
 
-<img align="right" src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/Webp.net-gifmaker.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
+<img align="right" src="https://github.com/denizozmen/denizozmen/blob/master/Webp.net-gifmaker.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
 
-<h3 class="animate__animated animate__bounce">Hi, I'm Tarik. I'm fullstack developer.👋<h3/>
+<h3 class="animate__animated animate__bounce">Hi, I'm Deniz. I'm fullstack developer.👋<h3/>
 
-<img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
+<img src="https://github.com/denizozmen/denizozmen/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
 <img 
 
-<!--
-**denizozmen/denizozmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
