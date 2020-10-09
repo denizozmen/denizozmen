@@ -5,4 +5,4 @@
 <img src="https://github.com/denizozmen/denizozmen/blob/main/giphy.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
 <img 
 
-giphy.gif
+
