@@ -7,6 +7,7 @@
 3. [01-react-profile-web](https://github.com/denizozmen/01-react-profile-web). Profile implementation with API
 4. [mern-stack-bookstore](https://github.com/denizozmen/mern-stack-bookstore). MongoDB Express(.js) React(.js) Node(.js)
 5. [user-form-mern](https://github.com/denizozmen/user-form-mern). "Live View" => [Heroku-link](https://user-form-mern.herokuapp.com/) MongoDB Express(.js) React(.js) Node(.js)
+6. [crud-operations-react](https://github.com/denizozmen/crud-operations-react). => ["Live View"](https://denizozmen.github.io/crud-operations-react/) CRUD Operations React
 
 
 
